@@ -1,7 +1,9 @@
-body{
-  background-color: rgb(140, 0, 255);
-}
 *{
-  padding: 0;
-  margin: 0;
+  padding: 0%;
+  margin: 0%;
+}
+body{
+  background-image: url('https://abrakadabra.fun/uploads/posts/2022-03/1647334650_3-abrakadabra-fun-p-gazon-tekstura-besshovnaya-visokogo-kaches-5.jpg');
+  padding: 0% 5%;
+  
 }

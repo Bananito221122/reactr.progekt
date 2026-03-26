@@ -4,8 +4,7 @@ const Card = () => {
     return (
       
 <div className={styles.biba}>   
-    <img src={imgURL} alt=""className={styles.Cardimg} />
-    <div>PREDATOR PRASE 100$</div>
+    
 </div>
         
        
